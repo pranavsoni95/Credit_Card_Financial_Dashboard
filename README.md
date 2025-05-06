@@ -12,7 +12,7 @@ Based on the provided reports, here are some of the key areas covered and potent
 
 **1. Credit Card Customer Report:**
 
-![Dashboard](images/Credit%20Card%20Customer%20Report1_image.jpg)
+![Dashboard](images/Credit Card Customer Report1_image.jpg)
 
 
 * **Revenue Performance:** This dashboard tracks the sum of revenue over different quarters (Q1-Q4) and provides an overall view. It also breaks down revenue by week, allowing for the identification of peak and low-performing periods.
