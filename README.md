@@ -12,7 +12,7 @@ Based on the provided reports, here are some of the key areas covered and potent
 
 **1. Credit Card Customer Report:**
 
-![Dashboard](Images/CreditCardReport1_images.jpg)
+![Dashboard](Images/CreditCardCustomerReport1_image.jpg)
 
 
 * **Revenue Performance:** This dashboard tracks the sum of revenue over different quarters (Q1-Q4) and provides an overall view. It also breaks down revenue by week, allowing for the identification of peak and low-performing periods.
@@ -30,7 +30,7 @@ Based on the provided reports, here are some of the key areas covered and potent
 
 **2. Credit Card Transaction Report:**
 
-![Dashboard](Images/CreditCardReport1_image.jpg)
+![Dashboard](Images/CreditCardReport1_images.jpg)
 
 * **Transaction Volume and Amount:** This dashboard focuses on transaction metrics, including the sum of total transaction amount and the count of transactions.
 * **Revenue Breakdown:** Similar to the Customer Report, this dashboard also shows the sum of revenue but potentially with a focus on transaction-related attributes.
