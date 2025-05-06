@@ -55,7 +55,7 @@ Based on the provided reports, here are some of the key areas covered and potent
 
 1.  **Clone Repo (Optional):** If `.pbix` files are present, clone the repository:
     ```bash
-    git clone [https://github.com/yourusername/your-repo-name.git](https://github.com/yourusername/your-repo-name.git)
+    git clone [https://github.com/yourusername/Credit_Card_Financial_Dashboard.git](https://github.com/yourusername/Credit_Card_Financial_Dashboard.git)
     ```
 2.  **Open PBIX (If applicable):** Open the `.pbix` file in Power BI Desktop.
 3.  **Explore:** Navigate tabs and visuals.
