@@ -41,22 +41,25 @@ Based on the provided reports, here are some of the key areas covered and potent
 
 ## How to Use These Dashboards
 
-To utilize these dashboards, you will need:
+**Prerequisites:**
 
-1.  **Power BI Desktop:** Ensure you have Power BI Desktop installed on your machine.
-2.  **Data Connection (Potentially):** The dashboards are currently based on the data embedded within the PBIX files. If you need to connect to a live data source or refresh the data, you will need the appropriate credentials and connection details.
+* **Power BI Desktop:** Install from [Microsoft Power BI](https://powerbi.microsoft.com/).
+* **Basic Power BI Knowledge:** Familiarity with report navigation and visuals is helpful.
 
-## Repository Contents
+**Setup:**
 
-* `Credit Card Customer Report1.pdf`: PDF export of the Credit Card Customer Analysis dashboard.
-* `Credit Card Report1.pdf`: PDF export of the Credit Card Transaction Report dashboard.
-* **(Optional: If you include the .pbix files)** `.pbix` files for each dashboard, allowing for interactive exploration and modification.
-* `README.md`: This file.
+1.  **Clone Repo (Optional):** If `.pbix` files are present, clone the repository:
+    ```bash
+    git clone [https://github.com/yourusername/your-repo-name.git](https://github.com/yourusername/your-repo-name.git)
+    ```
+2.  **Open PBIX (If applicable):** Open the `.pbix` file in Power BI Desktop.
+3.  **Explore:** Navigate tabs and visuals.
 
-## Contributing
+**Usage:**
 
-(Optional: Add your contribution guidelines here if you plan to collaborate on this project.)
+* **Filter:** Use slicers (e.g., by time, demographics, card type, transaction). [cite: 1, 2]
+* **Drill Down:** Click on visuals for more detail (if enabled).
+* **Analyze Metrics:** Review KPIs like Revenue, Transaction Amount, Interest, Count. [cite: 1, 2, 3]
+* **Identify Trends:** Look for patterns in the data.
+* **Export/Customize (Desktop):** Export data/visuals or modify them in Power BI Desktop.
 
-## License
-
-(Optional: Include the license under which this project is shared.)
