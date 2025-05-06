@@ -62,9 +62,9 @@ Based on the provided reports, here are some of the key areas covered and potent
 
 **Usage:**
 
-* **Filter:** Use slicers (e.g., by time, demographics, card type, transaction). [cite: 1, 2]
+* **Filter:** Use slicers (e.g., by time, demographics, card type, transaction). 
 * **Drill Down:** Click on visuals for more detail (if enabled).
-* **Analyze Metrics:** Review KPIs like Revenue, Transaction Amount, Interest, Count. [cite: 1, 2, 3]
+* **Analyze Metrics:** Review KPIs like Revenue, Transaction Amount, Interest, Count.
 * **Identify Trends:** Look for patterns in the data.
 * **Export/Customize (Desktop):** Export data/visuals or modify them in Power BI Desktop.
 
