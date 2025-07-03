@@ -1,10 +1,10 @@
 # Credit Card Customer Analysis Dashboard
 
-This repository contains Power BI dashboards designed to analyze credit card customer data. The dashboards provide a comprehensive overview of key metrics related to revenue, customer demographics, transaction patterns, and more.
+This project involved building a comprehensive Power BI "Credit Card Financial Dashboard" for in-depth financial data analysis. It covered the entire process from connecting to an SQL database and processing data with DAX to designing interactive customer and transaction reports. The project highlights my skills in data integration, advanced analytics, and deploying impactful business intelligence solutions on platforms like GitHub.
 
 ## Overview
 
-The dashboards aim to provide actionable insights into credit card customer behavior, enabling stakeholders to understand revenue drivers, customer segments, and transaction characteristics. By visualizing this data, we can identify trends, opportunities, and potential areas for improvement.
+This project demonstrates expertise in Power BI by developing a complete "Credit Card Financial Dashboard." It encompasses data extraction from an SQL database, advanced data processing using DAX, and the creation of two detailed dashboards for customer and transaction insights. The successful deployment of this analytical solution on GitHub showcases a holistic understanding of business intelligence development and deployment.
 
 ## Key Dashboards and Insights
 
